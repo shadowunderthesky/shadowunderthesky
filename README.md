@@ -1,6 +1,6 @@
 # Hei, olen liibaan 👋
 
-Olen web dev, ja intohimoni on oppia aina uusia asioita. Rakastan lukea kirjoja ja kokeilla ja tehdä uusia asioia. Tällä hetkellä opiskelen myös ohjelmakehittäjäksi.
+Olen web dev, ja intohimoni on oppia aina uusia asioita. Rakastan lukea kirjoja ja kokeilla ja tehdä uusia asioia. 
 
 ## 💻 Taitoni
 
